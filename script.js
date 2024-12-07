@@ -10,8 +10,8 @@ addEventListener("scroll", (event) => {
 
  jsConfetti.addConfetti({
   emojis: [ '✨'],
-  emojiSize: 50,
-  confettiNumber: 200,
+  emojiSize: 25,
+  confettiNumber: 100,
 })
 
 
